@@ -57,7 +57,7 @@ namespace WebAPIProject1.Controllers
             }
             catch (Exception ex)
             {
-                return BadRequest("Somethig went Wrong ..!\n" + "Issue : " + ex.Message + ".\nwe will solve this issue soon ...1");
+                return BadRequest("Somethig  going on  Wrong ..!\n" + "Issue : " + ex.Message + ".\nwe will solve this issue soon ...1");
             }
         }
 
