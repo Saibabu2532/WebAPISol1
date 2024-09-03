@@ -99,7 +99,7 @@ namespace WebAPIProject1.Controllers
                 }
                 else
                 {
-                    return NotFound("Records are Not Available in the Database.....!");
+                    return NotFound("Records is Not Available in the Database.....!");
                 }
             }
             catch (Exception ex)
