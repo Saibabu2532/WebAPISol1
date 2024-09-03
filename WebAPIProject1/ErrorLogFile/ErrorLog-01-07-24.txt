@@ -1,0 +1,180 @@
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 7:21:15 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 7:21:42 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:20:28 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:36:50 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:36:55 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:36:57 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:36:58 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:40:44 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:40:53 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 7/1/2024 11:43:45 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+

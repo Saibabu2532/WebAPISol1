@@ -1,0 +1,60 @@
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 5/20/2024 11:21:05 PM
+
+Error Line No:  pleted)
+
+ Error Message:
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 5/20/2024 11:27:22 PM
+
+Error Line No:  pleted)
+
+ Error Message:
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 5/20/2024 11:29:26 PM
+
+Error Line No:  pleted)
+
+ Error Message:
+--------------------*End*--------------------------
+
+
+
+--------------Exception Details on  + DateTime.Now.ToString() + ----------
+----------------------------------------------------------------
+
+
+
+Log Written Date: 5/20/2024 11:45:22 PM
+
+Error Line No:  pleted)
+
+ Error Message: One of the identified items was in an invalid format.
+
+exType: System.FormatException
+
+ErrorLocation: FormatException
+--------------------*End*--------------------------
+
+
+
